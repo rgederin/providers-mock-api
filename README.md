@@ -1,3 +1,19 @@
+## Useful commands
+
+For building docker image run:
+
+```
+mvn package -Dpackaging=docker
+```
+
+For deploying 
+
+```
+mvn deploy -Dpackaging=docker
+```
+
+Maven plugin info - https://micronaut-projects.github.io/micronaut-maven-plugin/latest/
+
 ## Micronaut 2.4.2 Documentation
 
 - [User Guide](https://docs.micronaut.io/2.4.2/guide/index.html)
