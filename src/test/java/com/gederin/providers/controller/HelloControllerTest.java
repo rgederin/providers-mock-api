@@ -26,6 +26,6 @@ class HelloControllerTest {
         String response = client.toBlocking()
                 .retrieve(HttpRequest.GET("/hello"));
 
-        assertEquals("Hello World from micronaut framework fail", response);
+        assertEquals("Hello World from micronaut framework", response);
     }
 }
