@@ -15,5 +15,4 @@ workflows:
         steps:
           # git pull
           - checkout
-
-          — run: ./mvnw clean install # mvn clean install tells Maven to do the clean phase in each module before running the install phase for each module.
+          - run: mvn clean package
