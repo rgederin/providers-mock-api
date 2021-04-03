@@ -1,4 +1,6 @@
-**CircleCI build status:** [![CircleCI](https://circleci.com/gh/rgederin/providers-mock-api.svg?style=svg)](https://app.circleci.com/pipelines/github/rgederin/providers-mock-api)
+**CircleCI build status** 
+
+[![CircleCI](https://circleci.com/gh/rgederin/providers-mock-api.svg?style=svg)](https://app.circleci.com/pipelines/github/rgederin/providers-mock-api)
 
 
 ## Useful commands
