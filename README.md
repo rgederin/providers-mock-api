@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/circleci/providers-mock-api.svg?style=svg)](https://app.circleci.com/pipelines/github/rgederin/providers-mock-api)
+
+
 ## Useful commands
 
 For building docker image run:
